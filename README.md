@@ -1,2 +1,2 @@
 My first readme
-it quit impresive
+it's quit impresive!
